@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at **(Working in my Portfolio ⚙️)**
   
-- 📝 I regularly write articles on [My Discord Server](https://discord.gg/4ZdChEEav2)
+- 📝 I regularly write articles on [**My Discord Server**](https://discord.gg/4ZdChEEav2)
 
 - 💬 Ask me about **React.js , Html , Css , Python**
 
